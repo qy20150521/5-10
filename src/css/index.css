@@ -1,0 +1,17 @@
+li {
+  line-height: 2.8em;
+}
+.box {
+  width: 200px;
+  height: 200px;
+  background: url("../images/1.jpg") center / cover;
+}
+.box2 {
+  width: 200px;
+  height: 200px;
+  background: url("../img/1.jpg") center / cover;
+}
+::placeholder {
+  color: red;
+}
+/*# sourceMappingURL=index.css.map */
